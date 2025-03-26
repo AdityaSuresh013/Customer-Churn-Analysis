@@ -185,7 +185,7 @@ If you prefer containerization, you can use the provided `Dockerfile`:
 
 Below is a **high-level overview** of deploying this Dockerized project to an **Ubuntu-based EC2** instance:
 
-<img src="AWS%20Deployment/aws3.png" width="500">
+<img src="AWS%20Deployment/aws3.PNG" width="500">
 
 1. **Launch an EC2 instance**:
    - Choose **Ubuntu** as the AMI.  
